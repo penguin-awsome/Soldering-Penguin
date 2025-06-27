@@ -10,6 +10,7 @@ I decided to make my life hell with a penguin who stares at you menacingly and m
 I cutout the edgecuts with straight lines by hand which was probably not a good way to do it but oh well.
 ![image](https://github.com/user-attachments/assets/21d87510-17e0-4790-b12f-d2454a2807f3)
 ![image](https://github.com/user-attachments/assets/d515abb7-7295-479c-9800-9d9d1be4bb52)
+![image](https://github.com/user-attachments/assets/235238e6-1e92-4103-973a-e499712a47d1)
 
 #BOM
 - 1x Battery Cell
